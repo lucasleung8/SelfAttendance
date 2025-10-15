@@ -8,8 +8,8 @@ Small tool built with Selenium that automatically types "Here" under my name in 
 3. "Here" is typed
 > Note: this does **not** happen automatically on a scheduled basis! This program just automates opening and typing into the spreadsheet so each day that you're present, you have to start it.
 
-## Instructions/Setup
-Pre-requisites: Python 3
+## Instructions
+Pre-requisites: Python
 
 - Download main.py
 - **In the user config, set cellLink to the link to your cell in the spreadsheet**.
