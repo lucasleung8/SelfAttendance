@@ -6,7 +6,7 @@ Small tool built with Selenium that automatically types "Here" under my name in 
 1. You run the script
 2. A browser window is opened and it navigates to your name in the spreadsheet via the direct link
 3. "Here" is typed
-> Note: this does **not** happen automatically on a scheduled basis! This program just automates opening and typing into the spreadsheet so each day that you're present, you have to start it.
+> Note: this does **not** happen automatically on a scheduled basis! This program just automates opening and typing into the spreadsheet, you have to start it.
 
 ## Instructions
 Pre-requisites: Python
